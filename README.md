@@ -7,6 +7,7 @@ This repository contains my **Work Readiness and Professional Development e-Port
 
 **Name:** Siya Rasmeni  
 **Student Number:** 222906073 
+
 **Course:** Diploma in Applications Development (3rd Year)  
 
 The e-Portfolio showcases my learning, reflections, and development of professional skills essential for entering the workplace.

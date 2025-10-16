@@ -1,7 +1,7 @@
 # Business Communication – Reflection (STAR Technique)
 
 ## Situation
-As part of the **Work Readiness and Professional Development** module, I completed a **Business Communication assessment** designed to test my understanding of key communication principles used in professional environments.  
+As part of the **Work Readiness**, I completed a **Business Communication assessment** designed to test my understanding of key communication principles used in professional environments.  
 The activity focused on **formal language, tone in emails, non-verbal communication,** and **virtual meeting etiquette**, all of which are essential skills for workplace success.
 
 ---
@@ -25,5 +25,6 @@ Through this activity, I gained a stronger understanding of how **effective comm
 I learned to adapt my **tone and language** to suit different audiences and situations, ensuring that messages are always clear and respectful.  
 This knowledge will help me communicate confidently with colleagues, supervisors, and clients in future professional environments, both in person and online.  
 The exercise improved my confidence in using professional language and etiquette in any business context.
+
 
 

@@ -1,7 +1,7 @@
 # Interview Skills – Reflection (STAR Technique)
 
 ## Situation
-As part of the **Work Readiness and Professional Development** module, I completed an **Interview Skills assessment** aimed at improving my understanding of how to prepare for and perform effectively during job interviews. The activity focused on important areas such as **interview purpose, the CAR method, company research, self-introduction techniques,** and **how to handle difficult questions** like discussing weaknesses.
+As part of the **Work Readiness**, I completed an **Interview Skills assessment** aimed at improving my understanding of how to prepare for and perform effectively during job interviews. The activity focused on important areas such as **interview purpose, the CAR method, company research, self-introduction techniques,** and **how to handle difficult questions** like discussing weaknesses.
 
 ---
 
@@ -22,3 +22,4 @@ Additionally, I learned how to research a company’s values, culture, and goals
 Completing this activity helped me build confidence in my ability to handle real job interviews.  
 I learned how to present myself professionally, communicate clearly, and use structured methods like CAR to answer effectively.  
 I now understand the importance of preparation and self-awareness during interviews, and I feel more confident in responding to challenging questions. This exercise strengthened my readiness to engage in professional interviews with clarity, confidence, and composure.
+

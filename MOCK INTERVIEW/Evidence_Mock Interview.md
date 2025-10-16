@@ -1,1 +1,6 @@
+# Business Communication – Evidence
+
+This is the evidence for my **Business Communication** work as part of the **Work Readiness**.
+
 <img width="1358" height="605" alt="2023" src="https://github.com/user-attachments/assets/41213070-55ce-482e-a795-4750c76e8b16" />
+

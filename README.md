@@ -5,11 +5,12 @@
 ## Welcome to my Portfolio!
 
 **Name:** Siya Rasmeni  
-**Student Number:** 222906073 
-**Course:** Diploma in ICT in Applications Development( Final Year)
-**Institution:** Cape Peninsula University Of Technology 
-**Role: Software Developer Intern at Plum Systems
- Hello! I am **Siya Rasmeni**, and I am a **final-year student** at the **Cape Peninsula University of Technology (CPUT)** completing my **Diploma in ICT in Applications Development**. I am also completing my 12-month Work Integrated Learning (WIL)** as a **Software Developer Intern at Plum Systems**. This is my portfolio where I'm showcasing my professional development.  
+**Student Number:** 222906073  
+**Course:** Diploma in ICT in Applications Development (Final Year)  
+**Institution:** Cape Peninsula University of Technology  
+**Role:** Software Developer Intern at Plum Systems  
+
+Hello! I am **Siya Rasmeni**, and I am a **final-year student** at the **Cape Peninsula University of Technology (CPUT)** completing my **Diploma in ICT in Applications Development**. I am also completing my 12-month Work Integrated Learning (WIL)** as a **Software Developer Intern at Plum Systems**. This is my portfolio where I'm showcasing my professional development.  
 
 During my internship, I have been exposed to real-world software development projects, teamwork, agile collaboration, and professional communication in a business environment. This experience has allowed me to apply my academic knowledge while developing the professional, interpersonal, and workplace skills required to succeed in the IT industry.  
 
@@ -29,8 +30,7 @@ This **Work Readiness and Professional Development e-Portfolio** showcases my gr
 
 ---
 
-## 🗂️ 1. Business Communication – Reflection (STAR Technique)
-
+## 🗂️ 1. Business Communication – Reflection 
 ### 🟦 Situation
 As part of the **Work Readiness** module, I completed a **Business Communication assessment** designed to test my understanding of key communication principles used in professional environments.  
 The activity focused on **formal language, tone in emails, non-verbal communication,** and **virtual meeting etiquette**, all of which are essential skills for workplace success.
@@ -49,11 +49,11 @@ I learned to adapt my **tone and language** to suit different audiences and situ
 This knowledge now helps me communicate confidently with team members and clients at **Plum Systems**, where collaboration and clarity are vital in every project.
 
 ### 📸 Evidence
-*
+<img width="1270" height="608" alt="2022" src="https://github.com/user-attachments/assets/ae0a41a0-aec3-4417-8362-1b94b6302bf5" />
 
 ---
 
-## 🗂️ 2. Interview Skills – Reflection (STAR Technique)
+## 🗂️ 2. Interview Skills – Reflection 
 
 ### 🟦 Situation
 As part of the *Work Readiness and Professional Development* module, I completed an **Interview Skills assessment** aimed at evaluating my understanding of effective interview techniques.  
@@ -74,11 +74,11 @@ I learned to express my skills clearly, maintain professionalism, and use struct
 These skills have translated directly into my daily interactions at **Plum Systems**, where I regularly explain technical work in meetings and code reviews.
 
 ### 📸 Evidence
-*(Insert your screenshot of the Interview Skills quiz result here.)*
+<img width="1269" height="612" alt="2021" src="https://github.com/user-attachments/assets/682ec240-2825-4bb7-8b40-c601ecc51c01" />
 
 ---
 
-## 🗂️ 3. Mock Interview – Reflection (STAR Technique)
+## 🗂️ 3. Mock Interview – Reflection 
 
 ### 🟦 Situation
 As part of the *Work Readiness and Professional Development* module, I recorded a **Mock Interview video** to practice and demonstrate my interview skills in a simulated environment.  
@@ -99,11 +99,13 @@ This activity gave me practical experience in **presenting myself professionally
 I learned how to stay composed and express my ideas confidently, which has strengthened my ability to handle client discussions and technical presentations at **Plum Systems**.
 
 ### 📸 Evidence
-*(Insert your screenshot or thumbnail of the mock interview video here.)*
+<img width="1358" height="605" alt="2023" src="https://github.com/user-attachments/assets/bf3e88d9-ac1f-4e74-813d-a1388cd3e2bb" />
+You can open this link for my Mock video: 
+https://github.com/user-attachments/assets/800fe61f-d787-4275-b64b-73048c2f99f0
 
 ---
 
-## 🗂️ 4. Professional Networking – Reflection (STAR Technique)
+## 🗂️ 4. Professional Networking – Reflection 
 
 ### 🟦 Situation
 As part of the *Work Readiness and Professional Development* module, I completed a **Professional Networking assessment** designed to enhance my understanding of building and maintaining professional relationships.  
@@ -123,11 +125,11 @@ I now maintain a growing professional network that supports my learning and care
 Networking has opened opportunities for mentorship and collaboration both at **Plum Systems** and beyond.
 
 ### 📸 Evidence
-*(Insert your LinkedIn screenshot or connection list here.)*
+<img width="1277" height="605" alt="2024" src="https://github.com/user-attachments/assets/b43132ee-8f6b-4e2d-9f78-872af9f507d0" />
 
 ---
 
-## 🗂️ 5. Workplace Etiquette – Reflection (STAR Technique)
+## 🗂️ 5. Workplace Etiquette – Reflection 
 
 ### 🟦 Situation
 As part of the *Work Readiness and Professional Development* module, I completed a **Workplace Etiquette assessment** designed to evaluate my understanding of professional behavior in the workplace.  
@@ -147,7 +149,7 @@ I learned how proper etiquette builds a positive work environment and helps main
 These habits have strengthened my professional image at **Plum Systems**, where reliability and integrity are essential.
 
 ### 📸 Evidence
-*(Insert screenshot or feedback form from your workplace environment here.)*
+<img width="1277" height="606" alt="2025" src="https://github.com/user-attachments/assets/3b042e67-565d-4d64-b4ad-5540f38455f9" />
 
 ---
 

@@ -162,7 +162,7 @@ By combining my academic learning from CPUT with hands-on experience at Plum Sys
 ---
 
 ### 📎 Contact Information
-📧 Email: [your-email@example.com]  
-🔗 LinkedIn: [Your LinkedIn Profile URL]  
-💻 GitHub: [https://github.com/rasmenis](https://github.com/rasmenis)
+📧 Email: [222906073@mycput.ac.za]  
+🔗 LinkedIn: [www.linkedin.com/in/siya-rasmeni-079914234]  
+💻 GitHub: [)
 

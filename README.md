@@ -164,5 +164,5 @@ By combining my academic learning from CPUT with hands-on experience at Plum Sys
 ### 📎 Contact Information
 📧 Email: [222906073@mycput.ac.za]  
 🔗 LinkedIn: [www.linkedin.com/in/siya-rasmeni-079914234]  
-💻 GitHub: [)
+💻 GitHub: [https://github.com/rasmenis)
 

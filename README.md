@@ -1,6 +1,6 @@
 # Digital-Portfolio-Term4  
 
-# 🌱 Work Readiness & Professional Development E-Portfolio  
+# 🌱 Work Readiness E-Portfolio  
 
 ## Welcome to my Portfolio!
 

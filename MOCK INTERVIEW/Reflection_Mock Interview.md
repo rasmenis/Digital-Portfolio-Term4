@@ -12,8 +12,9 @@ This included applying the **CAR method (Context, Action, Result)** to structure
 To complete this activity, I planned and rehearsed my answers to typical interview questions, ensuring that each response followed the CAR framework.  
 I recorded myself delivering the answers, focusing on **tone, posture, and clarity**.  
 After reviewing the video, I identified areas for improvement, such as **eye contact** and **pacing**, and refined my performance.  
-At **Plum Systems**, I apply similar self-evaluation techniques when doing sprint reviews or demonstrating completed features, ensuring my communication is confident and concise.
+At my workplace, I apply similar self-evaluation techniques when doing sprint reviews or demonstrating completed features, ensuring my communication is confident and concise.
 
 ###  Result
 This activity gave me practical experience in presenting myself professionally and communicating clearly under pressure.  
-I learned how to stay composed and express my ideas confidently, which has strengthened my ability to handle client discussions and technical presentations at **Plum Systems**.
+I learned how to stay composed and express my ideas confidently, which has strengthened my ability to handle client discussions and technical presentations at my workplace.
+

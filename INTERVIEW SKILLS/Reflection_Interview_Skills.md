@@ -1,25 +1,21 @@
-# Interview Skills – Reflection (STAR Technique)
+## 🗂️ 2. Interview Skills – Reflection 
 
-## Situation
-As part of the **Work Readiness**, I completed an **Interview Skills assessment** aimed at improving my understanding of how to prepare for and perform effectively during job interviews. The activity focused on important areas such as **interview purpose, the CAR method, company research, self-introduction techniques,** and **how to handle difficult questions** like discussing weaknesses.
+###  Situation
+I completed an **Interview Skills assessment** aimed at evaluating my understanding of effective interview techniques.  
+The assessment focused on preparing for interviews, researching companies, answering common interview questions, and using the **CAR method (Context, Action, Result)** to structure responses.
 
----
+###  Task
+My objective was to demonstrate my ability to prepare for and respond confidently in job interviews.  
+This included understanding the purpose of interviews, researching companies beforehand, answering questions such as *“Tell me about yourself”*, and discussing my strengths and weaknesses professionally.
 
-## Task
-My goal was to demonstrate a solid understanding of professional interview preparation. This included learning how to use the **CAR (Context, Action, Result)** method to structure answers, identifying the purpose of researching a company before an interview, and practicing confident and professional communication when answering common interview questions.
+###  Action
+To complete this activity, I practiced answering typical interview questions using the **CAR method**, ensuring that my responses were clear and structured.  
+I also researched the importance of understanding a company’s values and operations before attending an interview, which helps tailor answers to the employer’s expectations.  
+During my internship at **Plum Systems**, I applied these principles when preparing for feedback sessions and presenting project updates, and treating them as mini interviews where clear, confident communication was essential.
 
----
+###  Result
+This activity improved my confidence in professional interviews and in presenting myself as a capable software developer.  
+I learned to express my skills clearly, maintain professionalism, and use structured responses to demonstrate competence.  
+These skills have translated directly into my daily interactions at **Plum Systems**, where I regularly explain technical work in meetings and code reviews.
 
-## Action
-To complete this activity, I reviewed each question carefully and applied the principles learned during the interview preparation lessons.  
-I practiced forming structured answers using the **CAR technique**, which helped me describe my experiences clearly and with confidence.  
-I also studied how to tailor answers for different questions, for example, presenting weaknesses honestly while showing self-improvement.  
-Additionally, I learned how to research a company’s values, culture, and goals before an interview to align my answers with what employers are looking for.
-
----
-
-## Result
-Completing this activity helped me build confidence in my ability to handle real job interviews.  
-I learned how to present myself professionally, communicate clearly, and use structured methods like CAR to answer effectively.  
-I now understand the importance of preparation and self-awareness during interviews, and I feel more confident in responding to challenging questions. This exercise strengthened my readiness to engage in professional interviews with clarity, confidence, and composure.
 

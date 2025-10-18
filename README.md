@@ -45,7 +45,7 @@ I also reflected on past experiences at **Plum Systems**, where effective commun
 ###  Result
 Through this activity, I gained a stronger understanding of how **effective communication builds trust and clarity** in the workplace.  
 I learned to adapt my tone and language to suit different audiences and situations, ensuring that messages are always clear and respectful.  
-This knowledge now helps me communicate confidently with team members and clients at **Plum Systems**, where collaboration and clarity are vital in every project.
+This knowledge now helps me communicate confidently with team members and team leaders at **Plum Systems**, where collaboration and clarity are vital in every project.
 
 ### Evidence
 <img width="1270" height="608" alt="2022" src="https://github.com/user-attachments/assets/ae0a41a0-aec3-4417-8362-1b94b6302bf5" />
@@ -91,10 +91,10 @@ This included applying the **CAR method (Context, Action, Result)** to structure
 To complete this activity, I planned and rehearsed my answers to typical interview questions, ensuring that each response followed the CAR framework.  
 I recorded myself delivering the answers, focusing on **tone, posture, and clarity**.  
 After reviewing the video, I identified areas for improvement, such as **eye contact** and **pacing**, and refined my performance.  
-At **Plum Systems**, I apply similar self-evaluation techniques when doing sprint reviews or demonstrating completed features, ensuring my communication is confident and concise.
+At my workplace, I apply similar self-evaluation techniques when doing sprint reviews or demonstrating completed features, ensuring my communication is confident and concise.
 
 ###  Result
-This activity provided practical experience in presenting myself professionally under simulated pressure. I developed better self-awareness, improved my confidence, and strengthened my ability to articulate technical skills and experiences effectively. These improvements have positively impacted my performance in meetings and face-face presentations at Plum Systems.  
+This activity provided practical experience in presenting myself professionally under simulated pressure. I developed better self-awareness, improved my confidence, and strengthened my ability to articulate technical skills and experiences effectively. These improvements have positively impacted my performance in meetings and face-face presentations at my workplace.  
 
 ### 📸 Evidence
 <img width="1358" height="605" alt="2023" src="https://github.com/user-attachments/assets/bf3e88d9-ac1f-4e74-813d-a1388cd3e2bb" />
@@ -115,10 +115,10 @@ My goal was to demonstrate the ability to create and sustain professional connec
 ###  Action
 I studied different networking strategies and applied them by improving my **LinkedIn profile**, connecting with IT professionals, and sharing updates about my WIL experience at **Plum Systems**.  
 I followed the rule of networking, treating others with respect and professionalism, and engaged with posts that align with my career goals.  
-I also connected with senior developers and mentors at Plum Systems to gain insights into software engineering best practices and workplace culture.
+I also connected with senior developers and mentors at my workplace to gain insights into software engineering best practices and workplace culture.
 
 ###  Result
-Through this activity, I developed a professional network that actively contributes to my personal and career growth. Networking enhanced my understanding of industry standards, exposed me to mentorship opportunities, and strengthened my ability to communicate professionally. These connections have already supported my learning at Plum Systems and may contribute to future career opportunities in software development.  
+Through this activity, I developed a professional network that actively contributes to my personal and career growth. Networking enhanced my understanding of industry standards, exposed me to mentorship opportunities, and strengthened my ability to communicate professionally. These connections have already supported my learning and may contribute to future career opportunities in software development.  
 
 
 ### 📸 Evidence
@@ -141,7 +141,7 @@ At **Plum Systems**, I ensure punctuality for meetings, communicate respectfully
 I also practice professional behavior by using personal devices responsibly and maintaining focus during working hours.
 
 ###  Result
-This activity reinforced my understanding of professionalism, accountability, and respect in the workplace. Practicing proper etiquette has enhanced my reliability, fostered positive team relationships, and contributed to a respectful, productive work environment at Plum Systems. I now consistently maintain professional standards, demonstrating integrity and responsibility in all interactions.  
+This activity reinforced my understanding of professionalism, accountability, and respect in the workplace. Practicing proper etiquette has enhanced my reliability, fostered positive team relationships, and contributed to a respectful, productive work environment at my workplace. I now consistently maintain professional standards, demonstrating integrity and responsibility in all interactions.  
 
 ###  Evidence
 <img width="1277" height="606" alt="2025" src="https://github.com/user-attachments/assets/3b042e67-565d-4d64-b4ad-5540f38455f9" />

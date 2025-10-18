@@ -15,4 +15,5 @@ I also connected with senior developers and mentors at Plum Systems to gain insi
 ###  Result
 This activity taught me how to network with confidence and purpose.  
 I now maintain a growing professional network that supports my learning and career development.  
-Networking has opened opportunities for mentorship and collaboration both at **Plum Systems** and beyond.
+Networking has opened opportunities for mentorship and collaboration both at my workplace and beyond.
+

@@ -93,7 +93,7 @@ I recorded myself delivering the answers, focusing on **tone, posture, and clari
 After reviewing the video, I identified areas for improvement, such as **eye contact** and **pacing**, and refined my performance.  
 At **Plum Systems**, I apply similar self-evaluation techniques when doing sprint reviews or demonstrating completed features, ensuring my communication is confident and concise.
 
-##  Result
+###  Result
 This activity provided practical experience in presenting myself professionally under simulated pressure. I developed better self-awareness, improved my confidence, and strengthened my ability to articulate technical skills and experiences effectively. These improvements have positively impacted my performance in meetings and face-face presentations at Plum Systems.  
 
 ### 📸 Evidence
@@ -117,7 +117,7 @@ I studied different networking strategies and applied them by improving my **Lin
 I followed the rule of networking, treating others with respect and professionalism, and engaged with posts that align with my career goals.  
 I also connected with senior developers and mentors at Plum Systems to gain insights into software engineering best practices and workplace culture.
 
-**Result**  
+###  Result
 Through this activity, I developed a professional network that actively contributes to my personal and career growth. Networking enhanced my understanding of industry standards, exposed me to mentorship opportunities, and strengthened my ability to communicate professionally. These connections have already supported my learning at Plum Systems and may contribute to future career opportunities in software development.  
 
 

@@ -93,9 +93,8 @@ I recorded myself delivering the answers, focusing on **tone, posture, and clari
 After reviewing the video, I identified areas for improvement, such as **eye contact** and **pacing**, and refined my performance.  
 At **Plum Systems**, I apply similar self-evaluation techniques when doing sprint reviews or demonstrating completed features, ensuring my communication is confident and concise.
 
-###  Result
-This activity gave me practical experience in presenting myself professionally and communicating clearly under pressure.  
-I learned how to stay composed and express my ideas confidently, which has strengthened my ability to handle client discussions and technical presentations at **Plum Systems**.
+##  Result
+This activity provided practical experience in presenting myself professionally under simulated pressure. I developed better self-awareness, improved my confidence, and strengthened my ability to articulate technical skills and experiences effectively. These improvements have positively impacted my performance in meetings and face-face presentations at Plum Systems.  
 
 ### 📸 Evidence
 <img width="1358" height="605" alt="2023" src="https://github.com/user-attachments/assets/bf3e88d9-ac1f-4e74-813d-a1388cd3e2bb" />
@@ -118,10 +117,9 @@ I studied different networking strategies and applied them by improving my **Lin
 I followed the rule of networking, treating others with respect and professionalism, and engaged with posts that align with my career goals.  
 I also connected with senior developers and mentors at Plum Systems to gain insights into software engineering best practices and workplace culture.
 
-###  Result
-This activity taught me how to network with confidence and purpose.  
-I now maintain a growing professional network that supports my learning and career development.  
-Networking has opened opportunities for mentorship and collaboration both at **Plum Systems** and beyond.
+**Result**  
+Through this activity, I developed a professional network that actively contributes to my personal and career growth. Networking enhanced my understanding of industry standards, exposed me to mentorship opportunities, and strengthened my ability to communicate professionally. These connections have already supported my learning at Plum Systems and may contribute to future career opportunities in software development.  
+
 
 ### 📸 Evidence
 <img width="1277" height="605" alt="2024" src="https://github.com/user-attachments/assets/b43132ee-8f6b-4e2d-9f78-872af9f507d0" />
@@ -143,8 +141,7 @@ At **Plum Systems**, I ensure punctuality for meetings, communicate respectfully
 I also practice professional behavior by using personal devices responsibly and maintaining focus during working hours.
 
 ###  Result
-This activity reinforced the importance of professionalism, respect, and accountability. I learned how proper etiquette builds a positive work environment and helps maintain trust among team members.  
-These habits have strengthened my professional image at **Plum Systems**, where reliability and integrity are essential.
+This activity reinforced my understanding of professionalism, accountability, and respect in the workplace. Practicing proper etiquette has enhanced my reliability, fostered positive team relationships, and contributed to a respectful, productive work environment at Plum Systems. I now consistently maintain professional standards, demonstrating integrity and responsibility in all interactions.  
 
 ###  Evidence
 <img width="1277" height="606" alt="2025" src="https://github.com/user-attachments/assets/3b042e67-565d-4d64-b4ad-5540f38455f9" />

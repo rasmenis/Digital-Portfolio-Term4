@@ -13,5 +13,4 @@ At **Plum Systems**, I ensure punctuality for meetings, communicate respectfully
 I also practice professional behavior by using personal devices responsibly and maintaining focus during working hours.
 
 ###  Result
-This activity reinforced the importance of professionalism, respect, and accountability. I learned how proper etiquette builds a positive work environment and helps maintain trust among team members.  
-These habits have strengthened my professional image at **Plum Systems**, where reliability and integrity are essential.
+This activity reinforced my understanding of professionalism, accountability, and respect in the workplace. Practicing proper etiquette has enhanced my reliability, fostered positive team relationships, and contributed to a respectful, productive work environment at Plum Systems. I now consistently maintain professional standards, demonstrating integrity and responsibility in all interactions.  
